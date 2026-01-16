@@ -34,12 +34,8 @@ In this lab, you'll learn how to create a database, load data from a CSV file as
 | Header | Description|
 | ------ | ---------- |
 |ID	     |Employee ID |
-|--------|------------|
-|FNAME	  First Name
-|
-|LNAME	  Last Name
-|
-|CITY	  City of residence
-|
-|CCODE	  Country code (2 letters)
-|
+|FNAME	 | First Name | 
+|LNAME	 | Last Name  |
+|CITY	   |City of residence|
+|CCODE	 |Country code (2 letters)|
+
